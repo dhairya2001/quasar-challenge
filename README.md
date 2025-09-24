@@ -82,6 +82,6 @@ The core implementation was developed independently. AI assistance was used for 
 ---
 
 ## Example Screenshot
-![Plot](screenshot.png)
+![Plot](Screenshot.png)
 
 ---
